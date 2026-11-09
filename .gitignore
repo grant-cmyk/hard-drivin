@@ -1,0 +1,13 @@
+# The original game is commercial: it never goes in this repo.
+*.tap
+*.TAP
+*.tzx
+*.TZX
+*.z80
+*.szx
+*.sna
+*.zip
+*.scr
+*.SCR
+original/
+__pycache__/
